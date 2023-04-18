@@ -127,8 +127,12 @@ Execute the program
 ## CLIENT OUTPUT
 ![Screenshot _30_](https://user-images.githubusercontent.com/120431120/232694641-9250b9d9-50ae-49ed-99c5-2fc6a053a2ef.jpg)
 
+## HTML VALIDATOR
+![Screenshot (32)](https://user-images.githubusercontent.com/120431120/232855400-8ca681a6-226a-48c9-ad6c-74d3e5b5773c.png)
+
+
 ## RESULT
-Program excecuted successfully
+Thus the Program excecuted successfully
 
 
 
